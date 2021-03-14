@@ -1,6 +1,8 @@
 # Dictionary-based-Sentiment-Analysis-on-University-Government-Issue-related-tweets
 Keywords — Sentiment Analysis, dictionary-based, Twitter, lexicon.
 
+_published paper can be read here:_ 
+
 Data Collecting:
  Scraped the data with the help of https://github.com/twintproject/twint
 *The tweet scraped in this study is "taglish" tagalog and english, which is a combination of tagalog and english words. It is very common in the Philippines communicating taglish verbal or non-verbal.
