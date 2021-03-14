@@ -2,6 +2,8 @@
 Keywords — Sentiment Analysis, dictionary-based, Twitter, lexicon.
 
 _published paper can be read here:_ 
+If you use this paper, please cite the following paper: 
+Homer Reyes, Jade Roque, Jerald Punzal, and Jhamille Alba _"Dictionary-based-Sentiment-Analysis-on-University-Government-Issue-related-tweets."_ March 2021, Manila, Philippines. 
 
 Data Collecting:
  Scraped the data with the help of https://github.com/twintproject/twint
