@@ -29,6 +29,4 @@ Tagalog "tl" is included on this file.
 ;
 ;Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 ;
-;It is distributed here under the GNU General Public License. Note that this is the full GPL, 
-;which allows many free uses, but does not allow its incorporation into any type of distributed
-;proprietary software, even in part or in translation. For commercial applications please contact the dataset creators.
+;It is distributed here under the GNU General Public License. Note that this is the full GPL, which allows many free uses, but does not allow its incorporation into any type of distributed proprietary software, even in part or in translation. For commercial applications please contact the dataset creators.
